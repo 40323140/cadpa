@@ -10,11 +10,11 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
@@ -24,8 +24,10 @@
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151006130205.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151006113136.1" a="E"><vh>@path content</vh>
-<v t="leo.20151017210656.1"><vh>@edit 2015cphww2.md</vh></v>
 <v t="amd.20150919114035.1"><vh>@edit 2015cphww1.md</vh></v>
+<v t="leo.20151017210656.1"><vh>@edit 2015cphww2.md</vh></v>
+<v t="leo.20151017212144.1"><vh>@edit 2015cphww3.md</vh></v>
+<v t="leo.20151017213255.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="leo.20151017213903.1"><vh>@edit 2015cphww5.md</vh></v>
 <v t="leo.20151022193547.1"><vh>@edit 2015cphww6.md</vh></v>
 <v t="leo.20151029132849.1"><vh>@edit 2015cphww7.md</vh></v>
@@ -39,22 +41,20 @@
 <v t="leo.20151225214958.1"><vh>@edit 2015cphww15.md</vh></v>
 <v t="leo.20151231125218.1"><vh>@edit 2015cphww16.md</vh></v>
 <v t="leo.20160105193843.1"><vh>@edit 2015cphww17.md</vh></v>
-<v t="leo.20151017212144.1"><vh>@edit 2015cphww3.md</vh></v>
-<v t="leo.20151017213255.1"><vh>@edit 2015cphww4.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
 </v>
 <v t="amd.20150919120205.1" a="E"><vh>以下為 reveal 投影片</vh>
 <v t="amd.20150915155634.1" a="E"><vh>@clean cadpaw1.html</vh>
-<v t="amd.20150915155634.2" a="E"><vh>html 標註</vh>
-<v t="amd.20150915155634.3" a="E"><vh>head</vh>
+<v t="amd.20150915155634.2"><vh>html 標註</vh>
+<v t="amd.20150915155634.3"><vh>head</vh>
 <v t="amd.20150915155634.4"><vh>title - 標題</vh></v>
 <v t="amd.20150915155634.5"><vh>meta - 說明</vh></v>
 <v t="amd.20150915155634.7"><vh>script - css 與 pdf 列印</vh></v>
 </v>
-<v t="amd.20150915155634.8" a="E"><vh>body</vh>
-<v t="amd.20150915155634.9" a="E"><vh>div - reveal</vh>
+<v t="amd.20150915155634.8"><vh>body</vh>
+<v t="amd.20150915155634.9"><vh>div - reveal</vh>
 <v t="amd.20150915155634.10"><vh>div - slides</vh>
 <v t="amd.20150915155634.11"><vh>h1 - 課程說明</vh></v>
 <v t="amd.20150915172241.1"><vh>h1 - 開放自評規劃</vh></v>
@@ -65,7 +65,7 @@
 <v t="amd.20150915155634.16"><vh>h2</vh></v>
 </v>
 <v t="amd.20150915173703.1"><vh>h2 - 內含程式碼頁面</vh>
-<v t="amd.20150915173703.2" a="E"><vh>pre</vh>
+<v t="amd.20150915173703.2"><vh>pre</vh>
 <v t="amd.20150915173703.3"><vh>code</vh></v>
 </v>
 <v t="amd.20150915173703.4"><vh>p</vh></v>
@@ -75,9 +75,9 @@
 <v t="amd.20150915155634.18"><vh>h2</vh></v>
 <v t="amd.20150915155634.19"><vh>h2</vh></v>
 <v t="amd.20150915155634.20"><vh>markdown 頁面</vh></v>
-<v t="amd.20150915155634.21" a="E"><vh>h2</vh>
+<v t="amd.20150915155634.21"><vh>h2</vh>
 <v t="amd.20150915160450.1"><vh>Fragement 主頁面</vh></v>
-<v t="amd.20150915155634.28" a="E"><vh>下屬頁面</vh>
+<v t="amd.20150915155634.28"><vh>下屬頁面</vh>
 <v t="amd.20150915161424.1"><vh>h2</vh></v>
 <v t="amd.20150915155634.29"><vh>p</vh></v>
 <v t="amd.20150915155634.30"><vh>p</vh></v>
@@ -98,7 +98,7 @@
 <v t="amd.20150915155634.43"><vh>a</vh></v>
 </v>
 <v t="amd.20150915155634.44"><vh>h2 - 更換主題</vh></v>
-<v t="amd.20150915155634.45" a="E"><vh>p</vh>
+<v t="amd.20150915155634.45"><vh>p</vh>
 <v t="amd.20150915155634.46"><vh>a</vh></v>
 <v t="amd.20150915155634.47"><vh>a</vh></v>
 <v t="amd.20150915155634.48"><vh>a</vh></v>
@@ -117,14 +117,14 @@
 </v>
 <v t="amd.20150915155634.60"><vh>a</vh></v>
 <v t="amd.20150915155634.61"><vh>h2</vh></v>
-<v t="amd.20150915155634.62" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.62"><vh>pre</vh>
 <v t="amd.20150915155634.63"><vh>code</vh></v>
 </v>
 <v t="amd.20150915155634.64"><vh>h2 - 背景填圖頁面</vh></v>
-<v t="amd.20150915155634.65" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.65"><vh>pre</vh>
 <v t="amd.20150915155634.66"><vh>code</vh></v>
 </v>
-<v t="amd.20150915155634.67" a="E"><vh>div</vh>
+<v t="amd.20150915155634.67"><vh>div</vh>
 <v t="amd.20150915155634.68"><vh>h2</vh></v>
 <v t="amd.20150915155634.69"><vh>pre</vh>
 <v t="amd.20150915155634.70"><vh>code</vh></v>
@@ -138,17 +138,17 @@
 </v>
 <v t="amd.20150915155634.76"><vh>h2 - 背景轉換</vh></v>
 <v t="amd.20150915155634.77"><vh>p</vh></v>
-<v t="amd.20150915155634.78" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.78"><vh>pre</vh>
 <v t="amd.20150915155634.79"><vh>code</vh></v>
 </v>
-<v t="amd.20150915155634.80" a="E"><vh>h2 - 內含程式碼頁面</vh>
-<v t="amd.20150915155634.81" a="E"><vh>pre</vh>
+<v t="amd.20150915155634.80"><vh>h2 - 內含程式碼頁面</vh>
+<v t="amd.20150915155634.81"><vh>pre</vh>
 <v t="amd.20150915155634.82"><vh>code</vh></v>
 </v>
 <v t="amd.20150915155634.83"><vh>p</vh></v>
 </v>
 <v t="amd.20150915155634.85"><vh>h2</vh></v>
-<v t="amd.20150915155634.86" a="E"><vh>ul</vh>
+<v t="amd.20150915155634.86"><vh>ul</vh>
 <v t="amd.20150915155634.87"><vh>li</vh></v>
 <v t="amd.20150915155634.88"><vh>li</vh></v>
 <v t="amd.20150915155634.89"><vh>li</vh></v>
@@ -161,7 +161,7 @@
 <v t="amd.20150915155634.95"><vh>li</vh></v>
 </v>
 <v t="amd.20150915155634.96"><vh>h2 - 表格頁面</vh></v>
-<v t="amd.20150915155634.97" a="E"><vh>table</vh>
+<v t="amd.20150915155634.97"><vh>table</vh>
 <v t="amd.20150915155634.98"><vh>thead</vh>
 <v t="amd.20150915155634.99"><vh>tr</vh>
 <v t="amd.20150915155634.100"><vh>th</vh></v>
@@ -197,7 +197,7 @@
 <v t="amd.20150915155634.122"><vh>a</vh></v>
 </v>
 <v t="amd.20150915155634.123"><vh>h2</vh></v>
-<v t="amd.20150915155634.124" a="E"><vh>p</vh>
+<v t="amd.20150915155634.124"><vh>p</vh>
 <v t="amd.20150915155634.125"><vh>a</vh></v>
 </v>
 <v t="amd.20150915155634.126"><vh>p</vh>
@@ -209,7 +209,7 @@
 </v>
 <v t="amd.20150915155634.131"><vh>iframe</vh></v>
 <v t="amd.20150915155634.132"><vh>h2</vh></v>
-<v t="amd.20150915155634.133" a="E"><vh>p</vh>
+<v t="amd.20150915155634.133"><vh>p</vh>
 <v t="amd.20150915155634.134"><vh>code</vh></v>
 <v t="amd.20150915155634.135"><vh>code</vh></v>
 </v>
@@ -222,7 +222,7 @@
 </v>
 <v t="amd.20150915155634.141"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
 <v t="amd.20150915155634.142"><vh>p</vh></v>
-<v t="amd.20150915155634.143" a="E"><vh>h2 unordered list 頁面</vh>
+<v t="amd.20150915155634.143"><vh>h2 unordered list 頁面</vh>
 <v t="amd.20150915155634.148"><vh>li</vh>
 <v t="amd.20150915155634.149"><vh>a</vh></v>
 </v>
@@ -247,19 +247,19 @@
 </v>
 </v>
 <v t="amd.20150913233943.1" a="E"><vh>@clean cadpbw1.html</vh>
-<v t="amd.20150913233943.2"><vh>html</vh>
+<v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
 <v t="amd.20150913233943.4"><vh>title</vh></v>
 </v>
 <v t="amd.20150913233943.5" a="E"><vh>body</vh>
-<v t="amd.20150913233943.6" a="E"><vh>div</vh>
-<v t="amd.20150913233943.7" a="E"><vh>div</vh>
+<v t="amd.20150913233943.6"><vh>div</vh>
+<v t="amd.20150913233943.7"><vh>div</vh>
 <v t="amd.20150913234947.1"><vh>title page</vh>
 <v t="amd.20150913235225.1"><vh>標題頁下的子頁</vh></v>
 </v>
 <v t="amd.20150913235034.1"><vh>本日要點</vh></v>
 <v t="amd.20150914000138.1"><vh>Anaconda Python</vh></v>
-<v t="amd.20150914000332.1" a="E"><vh>設計的表達方式</vh>
+<v t="amd.20150914000332.1"><vh>設計的表達方式</vh>
 <v t="amd.20150914000332.2"><vh>協同模式下的網際雲端內容呈現</vh></v>
 </v>
 <v t="amd.20150913235123.1"><vh>結論</vh></v>
@@ -289,15 +289,15 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
-<v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
-<v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
-<v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
+<v t="amd.20150915211351.4"><vh>body 標註</vh>
+<v t="amd.20150915211351.5"><vh>div class="reveal"</vh>
+<v t="amd.20150915211351.6"><vh>div class="slides"</vh>
 <v t="amd.20150915211351.7"><vh>介紹</vh></v>
-<v t="amd.20150915211351.9"><vh>第一周</vh></v>
-<v t="amd.20150915211351.12"><vh>第一周心得</vh></v>
+<v t="amd.20150915211351.9"><vh>第一週</vh></v>
+<v t="amd.20150915211351.12"><vh>第一週心得</vh></v>
 <v t="leo.20151022190454.1"><vh>評分</vh></v>
 </v>
 </v>
@@ -305,15 +305,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151022190919.1"><vh>@clean simplest1.html</vh>
+<v t="leo.20151022190919.1" a="E"><vh>@clean simplest1.html</vh>
 <v t="leo.20151022190919.2"><vh>檔案說明</vh></v>
 <v t="leo.20151022190919.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151022190919.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151022190919.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151022190919.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151022190919.7"><vh>介紹</vh></v>
-<v t="leo.20151022190919.8"><vh>第二周</vh></v>
-<v t="leo.20151022190919.9"><vh>第二周心得</vh></v>
+<v t="leo.20151022190919.8"><vh>第二週</vh></v>
+<v t="leo.20151022190919.9"><vh>第二週心得</vh></v>
 <v t="leo.20151022190919.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -328,8 +328,8 @@
 <v t="leo.20151022191304.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151022191304.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151022191304.7"><vh>介紹</vh></v>
-<v t="leo.20151022191304.8"><vh>第三周</vh></v>
-<v t="leo.20151022191304.9"><vh>第三周心得</vh></v>
+<v t="leo.20151022191304.8"><vh>第三週</vh></v>
+<v t="leo.20151022191304.9"><vh>第三週心得</vh></v>
 <v t="leo.20151022191304.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -337,15 +337,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151022191648.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151022191648.1" a="E"><vh>@clean simplest3.html</vh>
 <v t="leo.20151022191648.2"><vh>檔案說明</vh></v>
 <v t="leo.20151022191648.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151022191648.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151022191648.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151022191648.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151022191648.7"><vh>介紹</vh></v>
-<v t="leo.20151022191648.8"><vh>第四周</vh></v>
-<v t="leo.20151022191648.9"><vh>第四周心得</vh></v>
+<v t="leo.20151022191648.8"><vh>第四週</vh></v>
+<v t="leo.20151022191648.9"><vh>第四週心得</vh></v>
 <v t="leo.20151022191648.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -353,15 +353,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151022192115.1"><vh>@clean simplest4.html</vh>
+<v t="leo.20151022192115.1" a="E"><vh>@clean simplest4.html</vh>
 <v t="leo.20151022192115.2"><vh>檔案說明</vh></v>
 <v t="leo.20151022192115.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151022192115.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151022192115.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151022192115.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151022192115.7"><vh>介紹</vh></v>
-<v t="leo.20151022192115.8"><vh>第五周</vh></v>
-<v t="leo.20151022192115.9"><vh>第五周心得</vh></v>
+<v t="leo.20151022192115.8"><vh>第五週</vh></v>
+<v t="leo.20151022192115.9"><vh>第五週心得</vh></v>
 <v t="leo.20151022192115.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -376,8 +376,8 @@
 <v t="leo.20151022193646.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151022193646.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151022193646.7"><vh>介紹</vh></v>
-<v t="leo.20151022193646.8"><vh>第六周</vh></v>
-<v t="leo.20151022193646.9"><vh>第六周心得</vh></v>
+<v t="leo.20151022193646.8"><vh>第六週</vh></v>
+<v t="leo.20151022193646.9"><vh>第六週心得</vh></v>
 <v t="leo.20151022193646.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -385,15 +385,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151029132735.1"><vh>@clean simplest6.html</vh>
+<v t="leo.20151029132735.1" a="E"><vh>@clean simplest6.html</vh>
 <v t="leo.20151029132735.2"><vh>檔案說明</vh></v>
 <v t="leo.20151029132735.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151029132735.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151029132735.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151029132735.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151029132735.7"><vh>介紹</vh></v>
-<v t="leo.20151029132735.8"><vh>第七周</vh></v>
-<v t="leo.20151029132735.9"><vh>第七周心得</vh></v>
+<v t="leo.20151029132735.8"><vh>第七週</vh></v>
+<v t="leo.20151029132735.9"><vh>第七週心得</vh></v>
 <v t="leo.20151029132735.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -401,15 +401,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151105124304.1"><vh>@clean simplest7.html</vh>
+<v t="leo.20151105124304.1" a="E"><vh>@clean simplest7.html</vh>
 <v t="leo.20151105124304.2"><vh>檔案說明</vh></v>
 <v t="leo.20151105124304.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151105124304.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151105124304.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151105124304.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151105124304.7"><vh>介紹</vh></v>
-<v t="leo.20151105124304.8"><vh>第八周</vh></v>
-<v t="leo.20151105124304.9"><vh>第八周心得</vh></v>
+<v t="leo.20151105124304.8"><vh>第八週</vh></v>
+<v t="leo.20151105124304.9"><vh>第八週心得</vh></v>
 <v t="leo.20151105124304.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -417,15 +417,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151106212514.1"><vh>@clean simplest8.html</vh>
+<v t="leo.20151106212514.1" a="E"><vh>@clean simplest8.html</vh>
 <v t="leo.20151106212514.2"><vh>檔案說明</vh></v>
 <v t="leo.20151106212514.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151106212514.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151106212514.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151106212514.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151106212514.7"><vh>介紹</vh></v>
-<v t="leo.20151106212514.8"><vh>第九周</vh></v>
-<v t="leo.20151106212514.9"><vh>第九周心得</vh></v>
+<v t="leo.20151106212514.8"><vh>第九週</vh></v>
+<v t="leo.20151106212514.9"><vh>第九週心得</vh></v>
 <v t="leo.20151106212514.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -433,15 +433,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151125205022.1"><vh>@clean simplest9.html</vh>
+<v t="leo.20151125205022.1" a="E"><vh>@clean simplest9.html</vh>
 <v t="leo.20151125205022.2"><vh>檔案說明</vh></v>
 <v t="leo.20151125205022.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151125205022.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151125205022.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151125205022.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151125205022.7"><vh>介紹</vh></v>
-<v t="leo.20151125205022.8"><vh>第十周</vh></v>
-<v t="leo.20151125205022.9"><vh>第十周心得</vh></v>
+<v t="leo.20151125205022.8"><vh>第十週</vh></v>
+<v t="leo.20151125205022.9"><vh>第十週心得</vh></v>
 <v t="leo.20151125205022.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -449,15 +449,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151125205923.1"><vh>@clean simplest10.html</vh>
+<v t="leo.20151125205923.1" a="E"><vh>@clean simplest10.html</vh>
 <v t="leo.20151125205923.2"><vh>檔案說明</vh></v>
 <v t="leo.20151125205923.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151125205923.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151125205923.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151125205923.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151125205923.7"><vh>介紹</vh></v>
-<v t="leo.20151125205923.8"><vh>第十一周</vh></v>
-<v t="leo.20151125205923.9"><vh>第十一周心得</vh></v>
+<v t="leo.20151125205923.8"><vh>第十一週</vh></v>
+<v t="leo.20151125205923.9"><vh>第十一週心得</vh></v>
 <v t="leo.20151125205923.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -465,15 +465,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151125205931.1"><vh>@clean simplest11.html</vh>
+<v t="leo.20151125205931.1" a="E"><vh>@clean simplest11.html</vh>
 <v t="leo.20151125205931.2"><vh>檔案說明</vh></v>
 <v t="leo.20151125205931.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151125205931.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151125205931.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151125205931.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151125205931.7"><vh>介紹</vh></v>
-<v t="leo.20151125205931.8"><vh>第十二周</vh></v>
-<v t="leo.20151125205931.9"><vh>第十二周心得</vh></v>
+<v t="leo.20151125205931.8"><vh>第十二週</vh></v>
+<v t="leo.20151125205931.9"><vh>第十二週心得</vh></v>
 <v t="leo.20151125205931.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -481,15 +481,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151215192912.1"><vh>@clean simplest12.html</vh>
+<v t="leo.20151215192912.1" a="E"><vh>@clean simplest12.html</vh>
 <v t="leo.20151215192912.2"><vh>檔案說明</vh></v>
 <v t="leo.20151215192912.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151215192912.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151215192912.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151215192912.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151215192912.7"><vh>介紹</vh></v>
-<v t="leo.20151215192912.8"><vh>第十三周</vh></v>
-<v t="leo.20151215192912.9"><vh>第十三周心得</vh></v>
+<v t="leo.20151215192912.8"><vh>第十三週</vh></v>
+<v t="leo.20151215192912.9"><vh>第十三週心得</vh></v>
 <v t="leo.20151215192912.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -497,15 +497,15 @@
 </v>
 </v>
 </v>
-<v t="leo.20151215193004.1"><vh>@clean simplest13.html</vh>
+<v t="leo.20151215193004.1" a="E"><vh>@clean simplest13.html</vh>
 <v t="leo.20151215193004.2"><vh>檔案說明</vh></v>
 <v t="leo.20151215193004.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151215193004.4" a="E"><vh>body 標註</vh>
 <v t="leo.20151215193004.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151215193004.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151215193004.7"><vh>介紹</vh></v>
-<v t="leo.20151215193004.8"><vh>第十四周</vh></v>
-<v t="leo.20151215193004.9"><vh>第十四周心得</vh></v>
+<v t="leo.20151215193004.8"><vh>第十四週</vh></v>
+<v t="leo.20151215193004.9"><vh>第十四週心得</vh></v>
 <v t="leo.20151215193004.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -520,8 +520,8 @@
 <v t="leo.20151225215116.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151225215116.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151225215116.7"><vh>介紹</vh></v>
-<v t="leo.20151225215116.8"><vh>第十五周</vh></v>
-<v t="leo.20151225215116.9"><vh>第十五周心得</vh></v>
+<v t="leo.20151225215116.8"><vh>第十五週</vh></v>
+<v t="leo.20151225215116.9"><vh>第十五週心得</vh></v>
 <v t="leo.20151225215116.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -536,8 +536,8 @@
 <v t="leo.20151231125316.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20151231125316.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20151231125316.7"><vh>介紹</vh></v>
-<v t="leo.20151231125316.8"><vh>第十六周</vh></v>
-<v t="leo.20151231125316.9"><vh>第十六周心得</vh></v>
+<v t="leo.20151231125316.8"><vh>第十六週</vh></v>
+<v t="leo.20151231125316.9"><vh>第十六週心得</vh></v>
 <v t="leo.20151231125316.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -552,8 +552,8 @@
 <v t="leo.20160105193938.5" a="E"><vh>div class="reveal"</vh>
 <v t="leo.20160105193938.6" a="E"><vh>div class="slides"</vh>
 <v t="leo.20160105193938.7"><vh>介紹</vh></v>
-<v t="leo.20160105193938.8"><vh>第十七周</vh></v>
-<v t="leo.20160105193938.9"><vh>第十七周心得</vh></v>
+<v t="leo.20160105193938.8"><vh>第十七週</vh></v>
+<v t="leo.20160105193938.9"><vh>第十七週心得</vh></v>
 <v t="leo.20160105193938.10"><vh>評分</vh></v>
 </v>
 </v>
@@ -561,23 +561,23 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.1"><vh>@clean v31ref.html</vh>
-<v t="amd.20150915170743.2" a="E"><vh>html 標註</vh>
+<v t="amd.20150915170743.1" a="E"><vh>@clean v31ref.html</vh>
+<v t="amd.20150915170743.2"><vh>html 標註</vh>
 <v t="amd.20150915170743.3"><vh>head</vh></v>
-<v t="amd.20150915170743.7" a="E"><vh>body</vh>
-<v t="amd.20150915170743.9" a="E"><vh>div - reveal and slides</vh>
+<v t="amd.20150915170743.7"><vh>body</vh>
+<v t="amd.20150915170743.9"><vh>div - reveal and slides</vh>
 <v t="amd.20150915170743.10"><vh>一般單頁加上 anchor</vh></v>
 <v t="amd.20150915170743.11"><vh>一般單頁</vh></v>
-<v t="amd.20150915170743.12" a="E"><vh>垂直有下屬頁</vh>
+<v t="amd.20150915170743.12"><vh>垂直有下屬頁</vh>
 <v t="amd.20150915170743.13"><vh>下屬頁之一</vh></v>
 <v t="amd.20150915170743.14"><vh>下屬頁之二</vh></v>
 <v t="amd.20150915170743.15"><vh>下屬頁之三</vh></v>
 </v>
 <v t="amd.20150915170743.16"><vh>一般頁面加上跳頁 anchor</vh></v>
 <v t="amd.20150915170743.19"><vh>markdown 頁面</vh></v>
-<v t="amd.20150915170743.20" a="E"><vh>逐一出現項目頁面</vh>
+<v t="amd.20150915170743.20"><vh>逐一出現項目頁面</vh>
 <v t="amd.20150915170743.21"><vh>Fragement 主頁面</vh></v>
-<v t="amd.20150915170743.22" a="E"><vh>垂直之下屬頁面</vh>
+<v t="amd.20150915170743.22"><vh>垂直之下屬頁面</vh>
 <v t="amd.20150915170743.23"><vh>標題</vh></v>
 <v t="amd.20150915170743.24"><vh>一般項目</vh></v>
 <v t="amd.20150915170743.25"><vh>逐一跳出項目 grow</vh></v>
@@ -589,32 +589,32 @@
 </v>
 </v>
 <v t="amd.20150915170743.59"><vh>背景填圖頁面</vh></v>
-<v t="amd.20150915170743.75" a="E"><vh>內含程式碼頁面</vh>
-<v t="amd.20150915170743.76" a="E"><vh>pre</vh>
+<v t="amd.20150915170743.75"><vh>內含程式碼頁面</vh>
+<v t="amd.20150915170743.76"><vh>pre</vh>
 <v t="amd.20150915170743.77"><vh>code</vh></v>
 </v>
 <v t="amd.20150915170743.78"><vh>p</vh></v>
 </v>
-<v t="amd.20150915170743.80" a="E"><vh>ul 資料表列</vh>
+<v t="amd.20150915170743.80"><vh>ul 資料表列</vh>
 <v t="amd.20150915170743.81"><vh>li</vh></v>
 <v t="amd.20150915170743.82"><vh>li</vh></v>
 <v t="amd.20150915170743.83"><vh>li</vh></v>
 <v t="amd.20150915170743.84"><vh>li</vh></v>
 </v>
-<v t="amd.20150915170743.86" a="E"><vh>ol 資料表列</vh>
+<v t="amd.20150915170743.86"><vh>ol 資料表列</vh>
 <v t="amd.20150915170743.87"><vh>li</vh></v>
 <v t="amd.20150915170743.88"><vh>li</vh></v>
 <v t="amd.20150915170743.89"><vh>li</vh></v>
 </v>
-<v t="amd.20150915170743.91" a="E"><vh>表格頁面</vh>
-<v t="amd.20150915170743.92" a="E"><vh>thead</vh>
-<v t="amd.20150915170743.93" a="E"><vh>tr</vh>
+<v t="amd.20150915170743.91"><vh>表格頁面</vh>
+<v t="amd.20150915170743.92"><vh>thead</vh>
+<v t="amd.20150915170743.93"><vh>tr</vh>
 <v t="amd.20150915170743.94"><vh>th</vh></v>
 <v t="amd.20150915170743.95"><vh>th</vh></v>
 <v t="amd.20150915170743.96"><vh>th</vh></v>
 </v>
 </v>
-<v t="amd.20150915170743.97" a="E"><vh>tbody</vh>
+<v t="amd.20150915170743.97"><vh>tbody</vh>
 <v t="amd.20150915170743.98"><vh>tr</vh>
 <v t="amd.20150915170743.99"><vh>td</vh></v>
 <v t="amd.20150915170743.100"><vh>td</vh></v>
@@ -632,12 +632,12 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915170743.111" a="E"><vh>Clever Quotes</vh>
+<v t="amd.20150915170743.111"><vh>Clever Quotes</vh>
 <v t="amd.20150915170743.112"><vh>q</vh></v>
 <v t="amd.20150915170743.113"><vh>blockquote</vh></v>
 </v>
 <v t="amd.20150915170743.135"><vh>h2 按下 b 或 . 可以 black 畫面</vh></v>
-<v t="amd.20150915170743.137" a="E"><vh>h2 unordered list 頁面</vh>
+<v t="amd.20150915170743.137"><vh>h2 unordered list 頁面</vh>
 <v t="amd.20150915170743.138"><vh>li</vh>
 <v t="amd.20150915170743.139"><vh>a</vh></v>
 </v>
@@ -1905,13 +1905,12 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 @others
 </t>
 <t tx="amd.20150915211351.12">&lt;section&gt;
-        &lt;h2&gt;第一周心得&lt;/h2&gt;
+        &lt;h2&gt;第一週心得&lt;/h2&gt;
         &lt;p&gt;
-              第一周就開始使用了github網站,開始創建了分支,以及如何變換分支,這已經是難得聽得懂的一周了,雖然很久沒有使用python來做作業了,但至少基本的還聽得懂拉,第一次用先用個google連結,有成功唷~~~~~非常難得,這一周可能是最認真的一堂了.....&lt;/p&gt;
+              跟上學期不一樣,這學期開始使用分支來架設github網站,很久沒有使用python來做作業了&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="amd.20150915211351.15">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
 &lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
 &lt;script&gt;
@@ -1941,7 +1940,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -1951,7 +1950,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 	
 </t>
 <t tx="amd.20150915211351.9">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;筆記(第一周)&lt;/h2&gt;
+    &lt;h2&gt;筆記(第一週)&lt;/h2&gt;
     &lt;p&gt;1.先建立github倉儲,新增時Remade記得打勾
         2.git clone 自己倉儲的網址,之後進入資料夾cadpa_test
         3.git branch 索引自己的分支&lt;/p&gt;
@@ -1962,12 +1961,11 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
         到自己的資料夾
         輸入指令
         1.git add -A
-        2.git commit -m "1001"
+        2.git commit -m "."
         3.git push origin gh-pages
         4.輸入自己的帳號及密碼
         5.確認是否成功,輸入網址即可
-&lt;/section&gt;	
-</t>
+&lt;/section&gt;	</t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
 其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
@@ -2102,7 +2100,7 @@ jupyter notebook
 &lt;/section&gt;</t>
 <t tx="leo.20151022190454.1">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第一周:65&lt;/p&gt;
+    &lt;p&gt;1.第一週:60&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151022190919.1">@language xml
@@ -2112,7 +2110,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151022190919.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第二周:70&lt;/p&gt;
+    &lt;p&gt;1.第二週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151022190919.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2165,7 +2163,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2175,21 +2173,19 @@ jupyter notebook
 	
 </t>
 <t tx="leo.20151022190919.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;筆記(第二周)&lt;/h2&gt;
+    &lt;h2&gt;筆記(第二週)&lt;/h2&gt;
     &lt;p&gt;1.開始修改投影片
-          2.將python.properties中的V:\IDE\Python33修改成V:\anaconda3
-          3.老師有錄製影片,可自行去看
+          2.將python.properties中的V:\IDE\Python33修改成V:\anaconda3&lt;br&gt;
+          3.老師有錄製影片,可自行去看&lt;br&gt;
           4.討論為何push上去github卻無法開啟網頁,怎麼處理以及更新資料&lt;/p&gt;
-&lt;/section&gt;	
-</t>
+&lt;/section&gt;	</t>
 <t tx="leo.20151022190919.9">&lt;section&gt;
-        &lt;h2&gt;第二周心得&lt;/h2&gt;
+        &lt;h2&gt;第二週心得&lt;/h2&gt;
         &lt;p&gt;
-             這一周開始進入聽不懂模式,首先要把Leo打開就是個難題了,而且還要利用它把投影片修改成自己的,這是個多麼困難的作業阿,另外因為很多人還沒把投影片弄好,所以先幫其他同學,發現為何已經push上去卻顯示404的符號,一個原因可能是網路還在跑,另外一個原因可能是沒通過認證.如果沒通過認證的話就要先把倉儲刪掉,再重建一個,或許是因為一直重複這個動作,現在創建分支我可厲害的了!!!!結果到後來我自己的投影片都還沒修改成我自己的&lt;/p&gt;
+             這一週把Leo打開就是個難題了,而且還要利用它把投影片修改成自己的,這是個多麼困難的地方是push上去卻顯示404的符號,後來發現一個原因可能是網路還在跑,另外一個原因可能是沒通過認證.如果沒通過認證的話就利用上上學期教的增加鑰匙,這樣就能省去每次都要認證的麻煩&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151022191304.1">@language xml
 @tabwidth -4
 @others
@@ -2197,7 +2193,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151022191304.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第三周:70&lt;/p&gt;
+    &lt;p&gt;1.第三週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151022191304.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2250,7 +2246,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2260,19 +2256,18 @@ jupyter notebook
 	
 </t>
 <t tx="leo.20151022191304.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;筆記(第三周)&lt;/h2&gt;
-    &lt;p&gt;1.繼續第二周未完成的作業
-          2.開始教新的繪圖軟體,並且如何使用
+    &lt;h2&gt;筆記(第三週)&lt;/h2&gt;
+    &lt;p&gt;1.繼續第二週未完成的作業&lt;br&gt;
+          2.開始教新的繪圖軟體,並且如何使用&lt;br&gt;
           3.搜尋solvespace並且下載23.MB的那個檔案&lt;/p&gt;
 &lt;/section&gt;
 				</t>
 <t tx="leo.20151022191304.9">&lt;section&gt;
-        &lt;h2&gt;第三周心得&lt;/h2&gt;
-        &lt;p&gt;全新的一周來拉~~~已經有3周沒交作業的我開始拚了,只是不知為何修改到一半他不給我更新了,一個跌到谷底了,現在還是得依靠同學的幫助阿,不過投影片裡的東西是自己修改的倒是蠻有心得的,不過這一周上的東西已經超越我理解範圍了,或許我該用點心來學習了,且這禮拜也教新的繪圖軟體,很像在畫CAD,應該很快就可以很熟練了 &lt;/p&gt;
+        &lt;h2&gt;第三週心得&lt;/h2&gt;
+        &lt;p&gt;新的繪圖軟體超難用 &lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151022191648.1">@language xml
 @tabwidth -4
 @others
@@ -2280,7 +2275,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151022191648.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第四周:70&lt;/p&gt;
+    &lt;p&gt;1.第四週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151022191648.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2333,7 +2328,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2343,19 +2338,18 @@ jupyter notebook
 	
 </t>
 <t tx="leo.20151022191648.8">&lt;section id="hw-task-one"&gt;
-    &lt;h2&gt;筆記(第四周)&lt;/h2&gt;
-    &lt;p&gt;1.延續上禮拜未完成的投影片
-          2.開始使用繪圖軟體,並畫出例題中的圖案
+    &lt;h2&gt;筆記(第四週)&lt;/h2&gt;
+    &lt;p&gt;1.延續上禮拜未完成的投影片&lt;br&gt;
+          2.開始使用繪圖軟體,並畫出例題中的圖案&lt;br&gt;
           3.下禮拜開始實物測繪&lt;/p&gt;
 &lt;/section&gt;
 				</t>
 <t tx="leo.20151022191648.9">&lt;section&gt;
-        &lt;h2&gt;第四周心得&lt;/h2&gt;
-        &lt;p&gt;想要改標題,但是就是找不到notebook.py這個檔案,所以想說先打心得,打到一半想先傳上去遠端,但是連試兩次都沒有成功,程式也沒問我的username和password,原來是因為網路斷線,它無法找到我的網址,以至於無法git push ,這一次斷線讓我發現,原來git push上去時需要網路,在之前我都認為不需要網路就可以更新了,學到了一個重點阿,而這禮拜也開始了實物測繪,兩個人去測量,剩下的人在教室用投影片,那時候我就是在弄投影片,而當時我因為架錯網站想把它刪掉,忘記要用git rm刪掉了,直接在資料夾裡面刪除,以至於我的近端雖然刪掉了,但是遠端卻還保留了資料,有連結點但是點進去是404,後來怎麼救還是救不回來,於是再開啟了新的倉儲,但是我又犯了一個錯誤,我在leo裡先按了pelican再存檔,我一直認為這兩個步驟顛倒沒關係,但其實有差,逼不得已只好再開一個新的倉儲,有人告訴我說,先在近端看,成功了在push上去,從這次的經驗後,我再也不敢先git add 了 &lt;/p&gt;
+        &lt;h2&gt;第四週心得&lt;/h2&gt;
+        &lt;p&gt; 不知道要幹嘛無所事事&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151022192115.1">@language xml
 @tabwidth -4
 @others
@@ -2363,7 +2357,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151022192115.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第五周:70&lt;/p&gt;
+    &lt;p&gt;1.第五週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151022192115.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2416,7 +2410,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2427,24 +2421,22 @@ jupyter notebook
 </t>
 <t tx="leo.20151022192115.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務五&lt;/h2&gt;
-    &lt;p&gt;筆記(第五周)&lt;/p&gt;
-    &lt;p&gt;1.延續上禮拜未完成的投影片
-          2.派兩個人開始實物測繪
+    &lt;p&gt;筆記(第五週)&lt;/p&gt;
+    &lt;p&gt;1.延續上禮拜未完成的投影片&lt;br&gt;
+          2.派人開始實物測繪&lt;br&gt;
           3.reveal有更新過,並且有新的reavel,裡面只更改資料,如
            bootstrap3改成octopress
           &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151022192115.9">&lt;section&gt;
-        &lt;h2&gt;第五周心得&lt;/h2&gt;
+        &lt;h2&gt;第五週心得&lt;/h2&gt;
         &lt;p&gt;這禮拜老師有更新reaveal2,想說這之間有甚麼不同,原來是bootstrap3改成octopress,其餘沒什麼變,另外老師
-        還幫我們更改了notebook.py,這樣以後就不用再打開來改了,而這周也開始了實物測繪,雖然我們派了2個人去,
-        但好像沒什麼進展,跟我的Leo一樣阿,一直失敗,這周我也學習到怎麼將投影片一周一周的分開,其實不難,
-        我覺得我把它想得太複雜了,其實明白它的道理就OK了,不過遠端真的跑得還蠻久的耶..... &lt;/p&gt;
+        還幫我們更改了notebook.py,這樣以後就不用再打開來改了,而這週也開始了實物測繪,我們只有我去阿,
+        但好像沒什麼進展&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151022193646.1">@language xml
 @tabwidth -4
 @others
@@ -2452,7 +2444,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151022193646.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第六周:75&lt;/p&gt;
+    &lt;p&gt;1.第六週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151022193646.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2505,7 +2497,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2516,34 +2508,26 @@ jupyter notebook
 </t>
 <t tx="leo.20151022193646.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務六&lt;/h2&gt;
-    &lt;p&gt;筆記(第六周)&lt;/p&gt;
-    &lt;p&gt;1.延續上禮拜未完成的投影片
-          2.派兩個人開始實物測繪---腳踏車
-          3.已建立班上協同倉儲,要先建立協同倉儲者
-          4.git clone 2015fallcadpa(可先到tmp後再clone)
-          5.切換分支
-          6.資料夾裡有user,複製9999,貼上並將它改成自己的學號,之後點進去
-          7.刪除有關9999的資料(一個是網址檔,一個是在pelican裡的content,有兩個檔案都刪掉)
-          8.在Leo複製path9999,一樣改學號
-          9.有關9999全改成自己的學號(在自己的path裡面改喔!!!!)
+    &lt;p&gt;筆記(第六週)&lt;/p&gt;
+    &lt;p&gt;1.延續上禮拜未完成的投影片&lt;br&gt;
+          2.派兩個人開始實物測繪---腳踏車&lt;br&gt;
+          3.已建立班上協同倉儲,要先建立協同倉儲者&lt;br&gt;
+          4.git clone 2015fallcadpa(可先到tmp後再clone)&lt;br&gt;
+          5.切換分支&lt;br&gt;
+          6.資料夾裡有user,複製9999,貼上並將它改成自己的學號,之後點進去&lt;br&gt;
+          7.刪除有關9999的資料(一個是網址檔,一個是在pelican裡的content,有兩個檔案都刪掉)&lt;br&gt;
+          8.在Leo複製path9999,一樣改學號&lt;br&gt;
+          9.有關9999全改成自己的學號(在自己的path裡面改喔!!!!)&lt;br&gt;
           10.按path 40323105點user-pelican就可以囉~~~~~
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151022193646.9">&lt;section&gt;
-        &lt;h2&gt;第六周心得&lt;/h2&gt;
-        &lt;p&gt;終於又到了快要期中考的時候了,不意外這次也有班上協同倉儲,只是跟之前不一樣的是,這一次要用
-        Leo了,在大一下時只是傳一個檔案所以還好,但是人們面對不熟的東西時會更覺得有恐懼,因為我還沒
-        建立協同者所以我看著別人做,我們組長有成功,但它在教我時有人問問題,所以她過去看,發現為何Leo打不開
-        ,原來原因是我們要複製path9999,貼上後改成我們的,而有人直接在path9999裡修改資料,以至於新版跟舊版發生
-        衝突了,一開始可能一到兩個人錯還沒關係,但是一群人同時用就有問題了,當有人比我們還快push時,我們只好
-        pull下來後再重新推一次,但是前面的人錯了導致我們推下來的資料也是錯的,積少成多應該就是這個意思吧,
-        雖然最後有將程式修改回來,但我相信現在要叫我自己一個人弄還真的有點不敢了,我超怕我就是下一個將
-        Leo  弄壞的人 &lt;/p&gt;
+        &lt;h2&gt;第六週心得&lt;/h2&gt;
+        &lt;p&gt;我們這組說到分工就會停擺&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151029132735.1">@language xml
 @tabwidth -4
 @others
@@ -2551,7 +2535,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151029132735.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第七周:75&lt;/p&gt;
+    &lt;p&gt;1.第七週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151029132735.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2604,7 +2588,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2615,25 +2599,20 @@ jupyter notebook
 </t>
 <t tx="leo.20151029132735.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務七&lt;/h2&gt;
-    &lt;p&gt;筆記(第七周)&lt;/p&gt;
-    &lt;p&gt;1.教同學怎麼將倉儲裡面的Leo做更改
-           2.教同學怎麼在班級倉儲裡建立使用者
-           3.我講到沒聲音了~~~~~~
-           4.教如何解決Leo衝突
+    &lt;p&gt;筆記(第七週)&lt;/p&gt;
+    &lt;p&gt;1.教同學怎麼將倉儲裡面的Leo做更改&lt;br&gt;
+           2.教同學怎麼在班級倉儲裡建立使用者&lt;br&gt;
+           3.教如何解決Leo衝突
         
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151029132735.9">&lt;section&gt;
-        &lt;h2&gt;第七周心得&lt;/h2&gt;
-        &lt;p&gt;繼續教同學怎麼創建自己的倉儲並且將倉儲的Leo更改,以及在班級的倉儲
-        創建自己的資料夾和把它push上去,雖然在班級倉儲中Leo已經改好了, 但是因為
-        有人先推上去了,所以要再pull下來,但是當pull下來時,把已經掛掉的Leo也弄下來
-        了,以至於再次失敗.....想說應該有解決方法,但是不知如何動手,之後有人就有教我怎麼修改,但那是上完課之後的事,作法第8周再PO~~~~我教到失聲了...&lt;/p&gt;
+        &lt;h2&gt;第七週心得&lt;/h2&gt;
+        &lt;p&gt;用學校的電腦push好麻煩,想帶自己的電腦&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151105124304.1">@language xml
 @tabwidth -4
 @others
@@ -2641,7 +2620,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151105124304.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第八周:75&lt;/p&gt;
+    &lt;p&gt;1.第八週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151105124304.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2694,7 +2673,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2705,36 +2684,27 @@ jupyter notebook
 </t>
 <t tx="leo.20151105124304.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務八&lt;/h2&gt;
-    &lt;p&gt;筆記(第八周)&lt;/p&gt;
-    &lt;p&gt;1.開始進入班級協同倉儲裡改自己的檔案
-          2.解決衝突
-             (1)先將Leo檔打開至SciTE
-             (2)尋找7個小括號
-             (3)因為有新版本及舊版本,必須要將舊版本的刪掉
-             (4)它會有7個向左小括號+7個向右小括號,把它們通通刪掉
-             (5)他們前面還會有一些等號也要把它刪掉
+    &lt;p&gt;筆記(第八週)&lt;/p&gt;
+    &lt;p&gt;1.開始進入班級協同倉儲裡改自己的檔案&lt;br&gt;
+          2.解決衝突&lt;br&gt;
+             (1)先將Leo檔打開至SciTE&lt;br&gt;
+             (2)尋找7個小括號&lt;br&gt;
+             (3)因為有新版本及舊版本,必須要將舊版本的刪掉&lt;br&gt;
+             (4)它會有7個向左小括號+7個向右小括號,把它們通通刪掉&lt;br&gt;
+             (5)他們前面還會有一些等號也要把它刪掉&lt;br&gt;
              (6)儲存之後再重開一次檔案就好囉
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151105124304.9">&lt;section&gt;
     &lt;section&gt;
-        &lt;h2&gt;第八周心得分享&lt;/h2&gt;
-        &lt;p&gt;時間過得很快,真的要交期中報告了,但是在學校剛在近端改好後
-    馬上就被同學拉過去,以至於本周進度幾乎沒有......後來決定自己在宿舍做了,想說這時間應該不會有人使用2015fallcadpa,但是當我push第二次的時候
-居然有人比我先push上去了,所以我必須先打git pull origin gh-pages,把新版拉下來後再推回去
-    &lt;/section&gt;
-    &lt;section&gt;
-目前成功了,推第三次的時候,可能我與另一個同學同時推,它比我快,以至於我們發生了衝突,想說先pull下來再重新推,但還是失敗了,於是請教了祐生(TA)教我怎麼解決衝突,雖然有人也有教過我,但沒有實例果然還是想像不出來啊,經過這次的教導後,我知道怎麼改了,其實還蠻簡單的耶~~~~但是沒有把解決過程截圖其實蠻可惜的....
-    &lt;/section&gt;
-    &lt;section&gt;
-剛剛才發現,嵌入影片不是在Link而是在Embed的地方,將程式碼複製後貼上,再做稍微修改就可以囉~~~~
+        &lt;h2&gt;第八週心得分享&lt;/h2&gt;
+        &lt;p&gt;生病沒來
 
 &lt;/p&gt;
     &lt;/section&gt;
   
-&lt;/section&gt;	
-</t>
+&lt;/section&gt;	</t>
 <t tx="leo.20151106212514.1">@language xml
 @tabwidth -4
 @others
@@ -2742,7 +2712,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151106212514.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第九周:75&lt;/p&gt;
+    &lt;p&gt;1.第九週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151106212514.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2795,7 +2765,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2806,19 +2776,17 @@ jupyter notebook
 </t>
 <t tx="leo.20151106212514.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務九&lt;/h2&gt;
-    &lt;p&gt;筆記(第九周)&lt;/p&gt;
-    &lt;p&gt;準備交期中報告拉~~~~~做之前沒做完的報告~~~加上幫人解決衝突
+    &lt;p&gt;筆記(第九週)&lt;/p&gt;
+    &lt;p&gt;準備交期中報告拉,做之前沒做完的報告
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151106212514.9">&lt;section&gt;
-        &lt;h2&gt;第九周心得&lt;/h2&gt;
-        &lt;p&gt;這一周是段考周~~~要交報告了......所以大家開始在詢問要怎麼做,不意外地出現了衝突
-        ,教了一些人如何改之後,衝突就減少了,大部份的人知道如果很多人做的話要先pull比較令人安心,不枉費教了那麼久,但是我因為提早做完,所以當我上去看班級倉儲的時候,有些人直接複製我的,連改一下都不改,這讓我非常的生氣!!!!!後來有人跟我道歉,並且說會改,才讓我氣消~~~~~這禮拜是別人一直問的一周....&lt;/p&gt;
+        &lt;h2&gt;第九週心得&lt;/h2&gt;
+        &lt;p&gt;其實我不知道報告要做甚麼&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151125205022.1">@language xml
 @tabwidth -4
 @others
@@ -2826,7 +2794,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151125205022.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十周:70&lt;/p&gt;
+    &lt;p&gt;1.第十週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151125205022.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2879,7 +2847,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2890,20 +2858,17 @@ jupyter notebook
 </t>
 <t tx="leo.20151125205022.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十&lt;/h2&gt;
-    &lt;p&gt;筆記(第十周)&lt;/p&gt;
-    &lt;p&gt;段考周~~~~報告禮拜三(11/18)之前要交
+    &lt;p&gt;筆記(第十週)&lt;/p&gt;
+    &lt;p&gt;段考週~~~~報告禮拜三(11/18)之前要交
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151125205022.9">&lt;section&gt;
-        &lt;h2&gt;第十周心得&lt;/h2&gt;
-        &lt;p&gt;段考周阿..幸好這一門課沒有考試,不然我可能就是被當掉的其中一員,好險之前花了
-        不少時間做Leo,現在才能這麼安心地準備其他科目....也幸好沒有人把我做的東西直接蓋掉
-        ,不然我真的會哭...&lt;/p&gt;
+        &lt;h2&gt;第十週心得&lt;/h2&gt;
+        &lt;p&gt;段考週阿..幸好這一門課沒有考試,就有更多時間準備別的科目.&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151125205923.1">@language xml
 @tabwidth -4
 @others
@@ -2911,7 +2876,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151125205923.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十一周:70&lt;/p&gt;
+    &lt;p&gt;1.第十一週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151125205923.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -2964,7 +2929,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -2975,24 +2940,20 @@ jupyter notebook
 </t>
 <t tx="leo.20151125205923.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十一&lt;/h2&gt;
-    &lt;p&gt;筆記(第十一周)&lt;/p&gt;
-    &lt;p&gt;1.用Creo畫零件
-          2.組員分配零件並且把它組起來
-          3.這周有點名
+    &lt;p&gt;筆記(第十一週)&lt;/p&gt;
+    &lt;p&gt;1.用Creo畫零件&lt;br&gt;
+          2.組員分配零件並且把它組起來&lt;br&gt;
+          3.這週有點名
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151125205923.9">&lt;section&gt;
-        &lt;h2&gt;第十一周心得&lt;/h2&gt;
-        &lt;p&gt;難得的點名周耶~~~可能是運動會的關係很多人都沒來,這一周要用Creo畫圖拉,第一次
-        接觸這個軟體阿,感覺跟slideworks有點像阿,幸好是畫比較簡單的,畫完一個零件雖然花了
-        很久的時間,但是第二個畫的就很快了,其他組員也很花了很多時間摸索,畫好了要組起來,發現
-        我們有檔名一樣的,重複檔名的話很像不能放進去,所以好像有幾個要重畫了,不過這週至少
-        有新的進度拉~~~~&lt;/p&gt;
+        &lt;h2&gt;第十一週心得&lt;/h2&gt;
+        &lt;p&gt;難得的點名週耶~~~可能是運動會的關係很多人都沒來,這一週要用Creo畫圖拉,第一次接觸這軟體感覺超難用...&lt;br&gt;
+可能是因為太習慣Inventor比較方便簡單        &lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151125205931.1">@language xml
 @tabwidth -4
 @others
@@ -3000,7 +2961,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151125205931.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十二周:70&lt;/p&gt;
+    &lt;p&gt;1.第十二週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151125205931.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -3053,7 +3014,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3064,19 +3025,18 @@ jupyter notebook
 </t>
 <t tx="leo.20151125205931.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十二&lt;/h2&gt;
-    &lt;p&gt;筆記(第十二周)&lt;/p&gt;
-    &lt;p&gt;1.組合零件
+    &lt;p&gt;筆記(第十二週)&lt;/p&gt;
+    &lt;p&gt;1.組合零件&lt;br&gt;
           2.提到要開始建立組別的倉儲
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151125205931.9">&lt;section&gt;
-        &lt;h2&gt;第十二周心得&lt;/h2&gt;
-        &lt;p&gt;這一周好像跟上週一樣沒有甚麼變化,一樣分工合作,有人畫零件,有人組合,有人研究LEO,大家分工合作做事才會快押.....而我也負責拍了影片~~~只不過斷斷續續地怕同學看不懂我在幹甚麼阿...&lt;/p&gt;
+        &lt;h2&gt;第十二週心得&lt;/h2&gt;
+        &lt;p&gt;這一週好像跟上週一樣沒有甚麼變化,一樣沒分工作給我&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151215192912.1">@language xml
 @tabwidth -4
 @others
@@ -3084,7 +3044,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151215192912.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十三周:75&lt;/p&gt;
+    &lt;p&gt;1.第十三週:75&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151215192912.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -3137,7 +3097,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3148,20 +3108,19 @@ jupyter notebook
 </t>
 <t tx="leo.20151215192912.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十三&lt;/h2&gt;
-    &lt;p&gt;筆記(第十三周)&lt;/p&gt;
-    &lt;p&gt;1.教大家怎麼開LEO,因為近端的fix不能用
-          2.繼續組零件
+    &lt;p&gt;筆記(第十三週)&lt;/p&gt;
+    &lt;p&gt;1.教大家怎麼開LEO,因為近端的fix不能用&lt;br&gt;
+          2.繼續組零件&lt;br&gt;
           3.稍微講解Jupyter的使用方法
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151215192912.9">&lt;section&gt;
-        &lt;h2&gt;第十三周心得&lt;/h2&gt;
-        &lt;p&gt;近端的fix不能用了真的是有點麻煩阿...幸好老師教了另一種方法也可以開啟,但是我按照步驟做了居然打不開,逼不得已的情況下只好重開機拉,然後再按步驟重新做一次,終於可以了.....然後為了拍影片再重新來一遍,感覺自己都快背起來了.....而零件都畫好了也組好了~~~雙喜臨門阿~~~&lt;/p&gt;
+        &lt;h2&gt;第十三週心得&lt;/h2&gt;
+        &lt;p&gt;近端的fix不能用了真的是有點麻煩阿...幸好老師教了另一種方法也可以開啟,終於弄好了&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151215193004.1">@language xml
 @tabwidth -4
 @others
@@ -3169,7 +3128,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151215193004.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十四周:75&lt;/p&gt;
+    &lt;p&gt;1.第十四週:75&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151215193004.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -3222,7 +3181,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3233,20 +3192,18 @@ jupyter notebook
 </t>
 <t tx="leo.20151215193004.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十四&lt;/h2&gt;
-    &lt;p&gt;筆記(第十四周)&lt;/p&gt;
-    &lt;p&gt;1.開始講解如何建立組別倉儲
-          2.要記得錄影片押
-          3.這周也點名了
+    &lt;p&gt;筆記(第十四週)&lt;/p&gt;
+    &lt;p&gt;1.開始講解如何建立組別倉儲&lt;br&gt;
+          2.要記得錄影片&lt;br&gt;
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151215193004.9">&lt;section&gt;
-        &lt;h2&gt;第十四周心得&lt;/h2&gt;
-        &lt;p&gt;歐~~開始建立組別倉儲了....真的是..有聽沒有懂!!!!!雖然老師一邊做一邊錄影又一邊實際操作,但還是不懂啊~~~~我們這組先做,一個你不懂我也不懂的情況下建立了組別的節點,後來發生了衝突,原來我們一開始就做錯了,應該是我們必須在組長的資料夾裡新增自己組的LEO,這樣才對~~~後來好像有點懂了他的意思了~~~接下來就是要交報告的時候了....&lt;/p&gt;
+        &lt;h2&gt;第十四週心得&lt;/h2&gt;
+        &lt;p&gt;開始建立組別倉儲了,但我們這組不知道再幹嘛阿!!!我問他們也沒分配工作給我&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151225215116.1">@language xml
 @tabwidth -4
 @others
@@ -3254,7 +3211,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151225215116.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十五周:75&lt;/p&gt;
+    &lt;p&gt;1.第十五週:75&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151225215116.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -3307,7 +3264,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3318,22 +3275,19 @@ jupyter notebook
 </t>
 <t tx="leo.20151225215116.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十五&lt;/h2&gt;
-    &lt;p&gt;筆記(第十五周)&lt;/p&gt;
-    &lt;p&gt;1.使用新軟體Onshape
-          2.畫零件(用新軟體畫)
-          3.寫第15周組別網誌
+    &lt;p&gt;筆記(第十五週)&lt;/p&gt;
+    &lt;p&gt;1.使用新軟體Onshape&lt;br&gt;
+          2.畫零件(用新軟體畫)&lt;br&gt;
+          3.寫第15週組別網誌
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151225215116.9">&lt;section&gt;
-        &lt;h2&gt;第十五周心得&lt;/h2&gt;
-        &lt;p&gt;有新軟體Onshape,第一次在網頁上畫圖耶,有點新鮮....但是電腦速度不快的話真的會
-        卡卡的....而且那時候聽不太懂老師到底是要一組還是個人的...每個組員畫完後都傳一份
-        給老師,後來才知原來是一組一個阿,有趣的是居然同步了耶....這樣一來檔案就不用傳來傳去了,其實一個零件畫了超多遍的....尺寸都背起來了.....下禮拜希望可以組裝~~~&lt;/p&gt;
+        &lt;h2&gt;第十五週心得&lt;/h2&gt;
+        &lt;p&gt;在網路上用新軟體Onshape來畫圖,感覺距離把我之前玩遊戲的3D檔丟到網路上的夢想不遠了&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20151231125316.1">@language xml
 @tabwidth -4
 @others
@@ -3341,7 +3295,7 @@ jupyter notebook
 </t>
 <t tx="leo.20151231125316.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十六周:75&lt;/p&gt;
+    &lt;p&gt;1.第十六週:60&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20151231125316.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -3394,7 +3348,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3405,22 +3359,18 @@ jupyter notebook
 </t>
 <t tx="leo.20151231125316.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十六&lt;/h2&gt;
-    &lt;p&gt;筆記(第十六周)&lt;/p&gt;
-    &lt;p&gt;1.繼續使用onshape畫零件
+    &lt;p&gt;筆記(第十六週)&lt;/p&gt;
+    &lt;p&gt;1.繼續使用onshape畫零件&lt;br&gt;
           2.開始組裝
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20151231125316.9">&lt;section&gt;
-        &lt;h2&gt;第十六周心得&lt;/h2&gt;
-        &lt;p&gt;一年的最後一天上電腦課真是累阿....這周開始把零件組合了,雖然看似簡單,但是不知為何
-        我的兩片連接都弄不上去,問同學他們也說最後也這樣,所以下一次上課要去問人拉~~~
-        這周過完就快要期末考了,我們這組交給我分配工作...其實我真的不太知道要怎麼分配阿...
-        不過我的組員很給力這是無庸置疑的~~相信我們這組的期末報告應該整體還OK&lt;/p&gt;
+        &lt;h2&gt;第十六週心得&lt;/h2&gt;
+        &lt;p&gt;這週因為要忙雷射切割,其實沒有認真上課,都是靠同學幫忙&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 <t tx="leo.20160105193938.1">@language xml
 @tabwidth -4
 @others
@@ -3428,7 +3378,7 @@ jupyter notebook
 </t>
 <t tx="leo.20160105193938.10">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;自評分數&lt;/h2&gt;
-    &lt;p&gt;1.第十七周:75&lt;/p&gt;
+    &lt;p&gt;1.第十七週:70&lt;/p&gt;
 
 &lt;/section&gt;</t>
 <t tx="leo.20160105193938.11">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
@@ -3481,7 +3431,7 @@ jupyter notebook
 &lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;介紹自己&lt;/h2&gt;
-        &lt;p&gt;40323105  莊舜婷&lt;/p&gt;
+        &lt;p&gt;40323140  陳冠宇&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;	
         &lt;h2&gt;班級&lt;/h2&gt;
@@ -3492,18 +3442,17 @@ jupyter notebook
 </t>
 <t tx="leo.20160105193938.8">&lt;section id="hw-task-one"&gt;
     &lt;h2&gt;作業任務十七&lt;/h2&gt;
-    &lt;p&gt;筆記(第十七周)&lt;/p&gt;
-    &lt;p&gt;1.繼續使用onshape 
+    &lt;p&gt;筆記(第十七週)&lt;/p&gt;
+    &lt;p&gt;1.繼續使用onshape &lt;br&gt;
           2.開始自我評分
 &lt;/p&gt;
           
 &lt;/section&gt;</t>
 <t tx="leo.20160105193938.9">&lt;section&gt;
-        &lt;h2&gt;第十七周心得&lt;/h2&gt;
-        &lt;p&gt;這周開始自我打分數,給自己打了80分,覺得自己做的還OK,影片都有拍,除了一部分截圖外,不過在用onshape組裝時真的是困難重重阿,要不就合不起來,要不就是錄影軟體掛了,幸好最後都完成了~~~再來就是段考周囉~~~&lt;/p&gt;
+        &lt;h2&gt;第十七週心得&lt;/h2&gt;
+        &lt;p&gt;自評分數給自己打了70,因為如果這沒過這學期就要說掰掰了,剩下一週也盡量把它趕出來,拜託老師不要當我阿!!!&lt;/p&gt;
         
     &lt;/section&gt;
-				
-</t>
+				</t>
 </tnodes>
 </leo_file>
