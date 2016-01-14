@@ -10,11 +10,11 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1"><vh>@settings</vh>
+<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1"><vh>專案架構</vh>
+<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
@@ -659,8 +659,12 @@
 </v>
 </v>
 </v>
+<v t=".20160114142556.1"><vh>Found All: (ignore-case, head, body) index</vh></v>
 </vnodes>
 <tnodes>
+<t tx=".20160114142556.1">--------------------pelican 設定
+body: 也就是 index.html 是由 pelican 控制
+</t>
 <t tx="amd.20150913232631.1"></t>
 <t tx="amd.20150913232631.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
@@ -2002,71 +2006,6 @@ import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
 g.es("pelican 執行完畢")</t>
 <t tx="amd.20151006113136.1"></t>
-<t tx="amd.20151006130205.1">@language python
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- #
-from __future__ import unicode_literals
-
-# This file is only used if you use `make publish` or
-# explicitly specify it as your config file.
-
-import os
-
-AUTHOR = 'KMOL'
-SITENAME = '電腦輔助設計與實習  CADPA'
-SITEURL = ''
-
-PATH = 'content'
-
-TIMEZONE = 'Asia/Taipei'
-
-DEFAULT_LANG = 'en'
-
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
-# Blogroll
-LINKS = ((' 2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         (' Python', 'http://python.org/'),(' my github', 'https://github.com/40323140/cadpa'),(' my Vimeo', 'https://vimeo.com/home/myvideos'),(' my class ', 'http://2015fallhw.github.io/2015fallcadpa/'),(' my group', 'http://2015fallhw.github.io/2015fallcadpa/category/g3.html'),(' 40323140 個人網頁','https://40323140.github.io/cadpa'))
-
-# Social widget
-SOCIAL = (('twitter', 'http://twitter.com/willy850320'),
-          ('github', 'https://github.com/40323140/cadpa/tree/gh-pages'),)
-          
-DEFAULT_PAGINATION = 10
-
-SITEURL = 'http://coursemdetw.github.io/reveal'
-RELATIVE_URLS = True
-
-FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-
-DELETE_OUTPUT_DIRECTORY = True
-
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
-DISQUS_SITENAME = "2015fall"
-#GOOGLE_ANALYTICS = ""
-
-# 必須絕對目錄或相對於設定檔案所在目錄
-PLUGIN_PATHS = ['./../plugin']
-PLUGINS = ['liquid_tags.notebook']
-# 目錄設定相對於 reveal 下的 content 目錄
-NOTEBOOK_DIR = 'notebook'
-'''
-if not os.path.exists('_nb_header.html'):     
-    import warnings 
-    warnings.warn("_nb_header.html not found.") 
-else: 
-    EXTRA_HEADER = open('_nb_header.html', encoding="utf-8").read()
-'''
-
-</t>
 <t tx="amd.20151007224830.1">安裝
 
 sudo pip3 install jupyter
