@@ -8,10 +8,16 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = 'KMOL'
-SITENAME = '電腦輔助設計與實習  CADPA'
+SITENAME = '2015FALL CADPA 作業主頁'
 SITEURL = ''
 
+# Path to content directory to be processed by Pelican.
 PATH = 'content'
+
+# Directory to look at for pages, relative to PATH.
+# PAGE_DIR ('pages')
+# A list of directories to exclude when looking for pages.
+# PAGE_EXCLUDES (())	
 
 TIMEZONE = 'Asia/Taipei'
 
@@ -24,13 +30,12 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = ((' 2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         (' Python', 'http://python.org/'),(' my github', 'https://github.com/40323140/cadpa'),(' my Vimeo', 'https://vimeo.com/home/myvideos'),(' my class ', 'http://2015fallhw.github.io/2015fallcadpa/'),(' my group', 'http://2015fallhw.github.io/2015fallcadpa/category/g3.html'),(' 40323140 個人網頁','https://40323140.github.io/cadpa'))
+# 組員名單Blogroll
+LINKS = ()
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/willy850320'),
-          ('github', 'https://github.com/40323140/cadpa/tree/gh-pages'),)
+SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
+          ('github', 'http://github.com/ametaireau'),)
           
 DEFAULT_PAGINATION = 10
 
